@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         3DPChip Sponsor AdBlocker
 // @author       KlartNET
-// @version      0.0.1
+// @version      0.0.2
 // @description  3DPChip Sponsor AdBlocker
 // @updateURL    null
 // @match        *://www.3dpchip.com/*
