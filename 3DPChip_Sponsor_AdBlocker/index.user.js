@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         3DPChip Sponsor AdBlocker
 // @author       KlartNET
-// @version      0.0.4
+// @version      0.0.1
 // @description  3DPChip Sponsor AdBlocker
 // @updateURL    https://github.com/JadeMin/UserScripts/raw/main/3DPChip_Sponsor_AdBlocker/index.user.js
 // @downloadURL  https://github.com/JadeMin/UserScripts/raw/main/3DPChip_Sponsor_AdBlocker/index.user.js
