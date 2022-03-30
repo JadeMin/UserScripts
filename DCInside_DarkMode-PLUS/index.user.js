@@ -3,8 +3,8 @@
 // @author       KlartNET
 // @version      1.0.4
 // @description  Improves DCInside Dark mode with CSS!
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/JadeMin/UserScripts/raw/main/DCInside_DarkMode-PLUS/index.user.js
+// @downloadURL  https://github.com/JadeMin/UserScripts/raw/main/DCInside_DarkMode-PLUS/index.user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dcinside.com
 // @match        *://*.dcinside.com/*
 // ==/UserScript==
