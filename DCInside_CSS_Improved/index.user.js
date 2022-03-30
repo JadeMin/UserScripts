@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name         DCInside DarkMode+
-// @namespace    none
-// @version      1.0.4
 // @author       KlartNET
+// @version      1.0.4
 // @description  Improves DCInside Dark mode with CSS!
 // @updateURL    
 // @downloadURL  
