@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         DCInside DarkMode+
 // @namespace    none
-// @version      1.0.3
-// @description  Improves DCInside Dark mode with CSS!
+// @version      1.0.4
 // @author       KlartNET
+// @description  Improves DCInside Dark mode with CSS!
+// @updateURL    
+// @downloadURL  
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dcinside.com
 // @match        *://*.dcinside.com/*
 // ==/UserScript==
