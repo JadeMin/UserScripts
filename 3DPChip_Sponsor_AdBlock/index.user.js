@@ -11,7 +11,10 @@
 // ==/UserScript==
 
 (function(_this) {
-	'use strict';
-
-	location.pathname == "/3dp/ad/index.html" && window.close();
+	const adsPathList = ["/3dp/ad/index.html"];
+	
+	/*for(adsPath of adsPathList) {
+		location.pathname == adsPath && console.log("this is an ad page");
+	}*/
+	location.pathname == adsPathList[0] && window.close();
 })(this);
