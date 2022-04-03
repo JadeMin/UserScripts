@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DCInside DarkMode+
 // @author       KlartNET
-// @version      1.0.4
+// @version      0.0.4
 // @description  Improves the DCInside dark mode! (readabilty, etc)
 // @updateURL    https://github.com/JadeMin/UserScripts/raw/main/DCInside_DarkMode-PLUS/index.user.js
 // @downloadURL  https://github.com/JadeMin/UserScripts/raw/main/DCInside_DarkMode-PLUS/index.user.js
